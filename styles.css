@@ -78,7 +78,9 @@ body {
 }
 .container ul li{
   display: flex;
+  align-items: center;
 }
+
 .container ul li:first-child{
   color: var(--Cyan);
 }
